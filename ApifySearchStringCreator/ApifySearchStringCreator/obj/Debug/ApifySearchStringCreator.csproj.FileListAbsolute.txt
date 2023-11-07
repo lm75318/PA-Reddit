@@ -1,0 +1,15 @@
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.csproj.AssemblyReference.cache
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.csproj.SuggestedBindingRedirects.cache
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.csproj.CoreCompileInputs.cache
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\ApifySearchStringCreator.exe.config
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\ApifySearchStringCreator.exe
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\ApifySearchStringCreator.pdb
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\EPPlus.dll
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\EPPlus.Interfaces.dll
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\EPPlus.System.Drawing.dll
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\EPPlus.xml
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.csproj.CopyComplete
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.exe
+E:\FH\Masterarbeit SNA\ExcelMapper\ApifySearchStringCreator\ApifySearchStringCreator\obj\Debug\ApifySearchStringCreator.pdb
